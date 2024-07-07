@@ -4,7 +4,7 @@ Made By Leader of RadioActive.
 Radioactive is a Fork Of PlazmaMC(Made in Korea) and LeavesMC(Made in China), generated from volt,
 and has patches of Origami, Patina, IceCream, Petal.
 it's not NBM. i always thinked about "what if i PlazmaMC and LeavesMC combines in one bukkit?"
-and then, it happened. when i watched baseball an real baseball stadium, (LG VS NC, 6 - 3), and was going to konkuk univ to transfer to Line Number 7, i saw the news. what did happen was is the fu bao's hair loss at china. i decided to Boycott
+and then, it happened. when i watched baseball an real baseball stadium, (LG VS NC, 6 - 3), and was going to konkuk univ station to transfer to Seoul Line Number 7, i saw the news. what did happen was is the fu bao's hair loss at china. i decided to Boycott
 CITES which is the Cause Of This, so... i Combined LeavesMC and PlazmaMC using Volt. This was the first time that forks combined
 due to the Spectified Issue. this is why.
 
